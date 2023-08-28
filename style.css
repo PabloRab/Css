@@ -1,0 +1,12 @@
+:root{
+    --brand-color: #35f37d;
+}
+body{
+    background-color: rgb(1, 11, 88);
+    padding: 30px;
+}
+a{
+    padding: 10px;
+    background-color: var(--brand-color);
+    font-size: 36px;
+}
